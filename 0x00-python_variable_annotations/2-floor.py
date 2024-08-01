@@ -5,4 +5,4 @@ import math
 
 def floor(n: float) -> int:
     """takes a float n as argument and returns """
-    return math.floor(n)
+    return int(n)
